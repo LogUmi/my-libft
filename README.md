@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>my libft</h2>
-  <img src="./img/my_libft.png"  />
+  <img src="./img/ma_libft.png"  />
   <br>
 </div>
 
