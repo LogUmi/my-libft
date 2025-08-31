@@ -46,13 +46,13 @@ List of functions:
 
 ### 🔤 Character checks & conversions
 - `ft_isalpha`, `ft_isdigit`, `ft_isalnum`, `ft_isascii`, `ft_isprint`
-- `ft_tolower`, `ft_toupper`, `**ft_strrstr**`
+- `ft_tolower`, `ft_toupper`, **`ft_strrstr`**
 
 ### 🧵 String functions
 - `ft_strlen`, `ft_strlcpy`, `ft_strlcat`
 - `ft_strncmp`, `ft_strchr`, `ft_strrchr`, `ft_strnstr`
 - `ft_strdup`, `ft_strjoin`, `ft_strtrim`, `ft_split`
-- `ft_substr`, `**ft_strjoin_free**`
+- `ft_substr`, **`ft_strjoin_free`**
 
 ### 💾 Memory functions
 - `ft_memset`, `ft_memcpy`, `ft_memmove`
@@ -60,7 +60,7 @@ List of functions:
 - `ft_bzero`, `ft_calloc`
 
 ### 🔢 Conversions
-- `ft_atoi`, `ft_itoa`, `**ft_atod**`
+- `ft_atoi`, `ft_itoa`, **`ft_atoi_base_unsi`**, **`ft_atod`**
 
 ### 🖊 File descriptors
 - `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`
