@@ -130,6 +130,7 @@ In your source files, include the header:
 ├── img/                # Content for README
 ├── includes/           # Header files (.h)
 ├── srcs/               # Source code (.c)
+├── licence.txt		    # License MIT
 ├── Makefile
 └── README.md
 ```
