@@ -173,8 +173,7 @@ string1 has 7 characters
 ---
 
 ## 🚀 Roadmap
-This project is the original version that was evaluated at 42 and will remain in this state.  
-A maintained implementation of this project continues to live on through **my libft**.
+At this time there's no further modification in sight.
 
 ---
 
