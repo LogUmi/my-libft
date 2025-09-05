@@ -5,8 +5,9 @@
 </div>
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Status](https://img.shields.io/badge/status-maintained-brightgreen)
 ![42](https://img.shields.io/badge/origin-42-black)
+![Norminette](https://img.shields.io/badge/norminette-passed-brightgreen)
+![Status](https://img.shields.io/badge/status-maintained-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
 > A **custom C standard library**, based on **42 school projects** (`libft`, `ft_printf`, `get_next_line`)  
